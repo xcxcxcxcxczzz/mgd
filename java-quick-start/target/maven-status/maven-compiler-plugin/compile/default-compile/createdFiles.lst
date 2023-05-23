@@ -1,0 +1,16 @@
+com\mongodb\quickstart\Create.class
+com\mongodb\quickstart\csfle\ConsoleDecoration.class
+com\mongodb\quickstart\Read.class
+com\mongodb\quickstart\AggregationFramework.class
+com\mongodb\quickstart\Delete.class
+com\mongodb\quickstart\Update.class
+com\mongodb\quickstart\ChangeStreams.class
+com\mongodb\quickstart\csfle\ConnectionHelper$1.class
+com\mongodb\quickstart\models\Grade.class
+com\mongodb\quickstart\csfle\ConnectionHelper$1$1.class
+com\mongodb\quickstart\csfle\ConnectionHelper.class
+com\mongodb\quickstart\Connection.class
+com\mongodb\quickstart\csfle\ClientSideFieldLevelEncryption.class
+com\mongodb\quickstart\MappingPOJO.class
+com\mongodb\quickstart\models\Score.class
+com\mongodb\quickstart\HelloMongoDB.class
